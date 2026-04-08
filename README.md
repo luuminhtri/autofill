@@ -1,7 +1,7 @@
-<h1 align="center">🚀 AUTO FILL BÀI KIỂM TRA QUY CHẾ</h1>
+<h1 align="center">🚀 AUTO FILL BÀI KIỂM TRA QUY CHẾ VÀ PHÁP LUẬT</h1>
 
 <p align="center">
-  Script giúp tự động điền bài kiểm tra Quy chế bằng DevTools
+  Script giúp tự động điền bài kiểm tra Quy chế/Pháp luật bằng DevTools
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Bạn chỉ cần copy và chạy trong DevTools Console là xong.
 
 <!-- ẢNH BƯỚC 1 -->
 <p align="center">
-  <img src="your-image-link" alt="step1" width="800">
+  <img src="./images/step1.png">
 </p>
 
 ---
@@ -42,7 +42,7 @@ Bạn chỉ cần copy và chạy trong DevTools Console là xong.
 
 <!-- ẢNH BƯỚC 2 -->
 <p align="center">
-  <img src="your-image-link" alt="step2" width="800">
+  <img src="./images/step2.png">
 </p>
 
 ---
@@ -53,7 +53,7 @@ Bạn chỉ cần copy và chạy trong DevTools Console là xong.
 
 <!-- ẢNH BƯỚC 3 -->
 <p align="center">
-  <img src="your-image-link" alt="step3" width="800">
+  <img src="./images/step3.png">
 </p>
 
 ---
@@ -65,10 +65,6 @@ Mở file <code>code.txt</code> trong repo → <br>
 Nhấn <code>Ctrl + A</code> → <code>Ctrl + C</code>
 </p>
 
-<!-- ẢNH BƯỚC 4 -->
-<p align="center">
-  <img src="your-image-link" alt="step4" width="800">
-</p>
 
 ---
 
@@ -88,7 +84,7 @@ Nhấn <code>Ctrl + A</code> → <code>Ctrl + C</code>
 
 <!-- ẢNH BƯỚC 5 -->
 <p align="center">
-  <img src="your-image-link" alt="step5" width="800">
+  <img src="./images/step5.png">
 </p>
 
 ---
