@@ -97,7 +97,7 @@ Nhấn <b>Enter</b> → Script sẽ tự động chạy và fill bài
 
 <!-- ẢNH BƯỚC 6 -->
 <p align="center">
-  <img src="your-image-link" alt="step6" width="800">
+  <img src="./images/step6.png">
 </p>
 
 <hr>
@@ -111,7 +111,7 @@ Nhấn <b>Enter</b> → Script sẽ tự động chạy và fill bài
 
 <!-- ẢNH KẾT QUẢ -->
 <p align="center">
-  <img src="your-image-link" alt="result" width="800">
+  <img src="./images/results.png">
 </p>
 
 <hr>
