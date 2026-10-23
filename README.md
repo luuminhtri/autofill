@@ -1,25 +1,31 @@
-<h1 align="center">🚀 AUTO FILL BÀI KIỂM TRA QUY CHẾ VÀ PHÁP LUẬT</h1>
+<h1 align="center">AUTO FILL BÀI KIỂM TRA QUY CHẾ VÀ PHÁP LUẬT</h1>
 
 <p align="center">
   Script giúp tự động điền bài kiểm tra Quy chế/Pháp luật bằng DevTools
 </p>
 
 <p align="center">
-  <b>⚡ Nhanh - Gọn - Không cần cài đặt</b>
+  <b>Nhanh - Gọn - Không cần cài đặt</b>
 </p>
 
 <hr>
 
-<h2>📌 Giới thiệu</h2>
+<h2>Giới thiệu</h2>
 
 <p>
 Repo này chứa file <code>code.txt</code> dùng để <b>auto fill bài kiểm tra Quy chế</b>.<br>
 Bạn chỉ cần copy và chạy trong DevTools Console là xong.
 </p>
 
+<p>
+<i>
+(Cập nhật: đáp án với bộ quy chế mới nằm ở file <code>code_20261.txt</code> )
+</i>
+</p>
+
 <hr>
 
-<h2>🧩 Hướng dẫn chi tiết</h2>
+<h2>Hướng dẫn chi tiết</h2>
 
 <h3>🔹 Bước 1: Mở trang làm bài</h3>
 
@@ -61,16 +67,28 @@ Bạn chỉ cần copy và chạy trong DevTools Console là xong.
 <h3>🔹 Bước 4: Copy code</h3>
 
 <p>
-Mở file <code>code.txt</code> trong repo → <br>
+Mở file <code>code_20261.txt</code> trong repo <br> →
 Nhấn <code>Ctrl + A</code> → <code>Ctrl + C</code>
 </p>
 
+<p>
+Hoặc nhấn <code>Copy Raw File</code>
+</p>
 
----
+<!-- ẢNH BƯỚC 4 -->
+<p align="center">
+  <img src="./images/copy_raw.png">
+</p>
+
+<hr>
 
 <h3>🔹 Bước 5: Dán vào Console</h3>
 
 <p>Click vào Console → nhấn <code>Ctrl + V</code></p>
+
+<p align="center">
+  <img src="./images/step4.png">
+</p>
 
 <p>⚠️ Nếu thấy cảnh báo:</p>
 
@@ -87,7 +105,7 @@ Nhấn <code>Ctrl + A</code> → <code>Ctrl + C</code>
   <img src="./images/step5.png">
 </p>
 
----
+<hr>
 
 <h3>🔹 Bước 6: Chạy code</h3>
 
@@ -111,7 +129,7 @@ Nhấn <b>Enter</b> → Script sẽ tự động chạy và fill bài
 
 <!-- ẢNH KẾT QUẢ -->
 <p align="center">
-  <img src="./images/results.png">
+  <img src="./images/result.png">
 </p>
 
 <hr>
@@ -126,25 +144,8 @@ Nhấn <b>Enter</b> → Script sẽ tự động chạy và fill bài
 
 <hr>
 
-<h2>📁 Cấu trúc repo</h2>
 
-<pre>
-.
-└── code.txt   # Script auto fill
-</pre>
-
-<hr>
-
-<h2>💡 Tip</h2>
-
-<ul>
-  <li>Không chạy được → thử reload trang</li>
-  <li>Kiểm tra lỗi trong Console</li>
-  <li>Đảm bảo đang ở đúng trang làm bài</li>
-</ul>
-
-<hr>
 
 <p align="center">
-  🚀 Chúc bạn thành công!
+  Chúc bạn thành công!
 </p>
