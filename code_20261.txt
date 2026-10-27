@@ -343,7 +343,7 @@
     "Ứng dụng di động chính thức hỗ trợ sinh viên theo dõi Điểm rèn luyện, cập nhật minh chứng và đăng ký hoạt động ngoại khóa là gì?":
         ["App iCTSV"],
     "Trụ sở làm việc của Tổ hỗ trợ triển khai hệ thống iCTSV đặt tại vị trí nào trong trường?":
-        ["Phòng 106 - Nhà D4"],
+        ["Phòng 102 - Nhà D3-5"],
     "Địa chỉ văn phòng làm việc của Đoàn Thanh niên Đại học Bách khoa Hà Nội nằm tại phòng nào?":
         ["Phòng 208 - Tòa nhà C2"],
     "Văn phòng làm việc của Hội Sinh viên Đại học Bách khoa Hà Nội đặt tại vị trí nào?":
